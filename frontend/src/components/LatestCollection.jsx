@@ -2,7 +2,9 @@ import React from 'react'
 
 const LatestCollection = () => {
   return (
-    <div>LatestCollection</div>
+    <div>
+      LatestCollection
+    </div>
   )
 }
 
